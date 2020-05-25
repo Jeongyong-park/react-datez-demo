@@ -1,0 +1,12 @@
+/* Project uses CSSNEXT (CSS4) - http://cssnext.io/features/ via postcss */
+
+
+@import './components/variables.scss';
+@import './components/base.scss';
+@import './components/type.scss';
+@import './components/datepickers.scss';
+
+.form {
+  margin:100px auto;
+  width: 200px
+}
